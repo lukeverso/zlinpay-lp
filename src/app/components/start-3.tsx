@@ -14,7 +14,7 @@ export default function Start3() {
 					<ButtonWithBg title="Saiba mais" />
 				</div>
 				<div className="flex-1 sm:flex justify-center hidden">
-					<img src="/image2.png" alt="" />
+					<img src="/image2.svg" alt="" />
 				</div>
 			</div>
 			<div className="flex flex-col gap-2 text-center">

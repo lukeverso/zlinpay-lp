@@ -4,7 +4,7 @@ export default function About3() {
 	return (
 		<section className="px-10 sm:px-36 flex flex-col sm:flex-row items-center gap-10 sm:gap-36 py-10 sm:py-20">
 			<div className="flex-1 flex justify-center sm:hidden">
-				<img src="/image5.png" alt="" />
+				<img src="/image5.svg" alt="" />
 			</div>
 			<div className="flex-1 flex flex-col gap-5">
 				<span className="font-semibold text-3xl text-center sm:text-left">
@@ -24,7 +24,7 @@ export default function About3() {
 				<ButtonWithBg title="Saiba mais" />
 			</div>
 			<div className="flex-1 sm:flex justify-center hidden">
-				<img src="/image5.png" alt="" />
+				<img src="/image5.svg" alt="" />
 			</div>
 		</section>
 	);

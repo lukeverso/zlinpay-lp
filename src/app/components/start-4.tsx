@@ -49,7 +49,7 @@ export default function Start4() {
 					</p>
 				</div>
 			</div>
-			<span className="font-medium text-3xl">
+			<span className="font-medium text-3xl text-center">
 				<span className="text-green-300">Amplie</span> seu negócio e aumente suas vendas com a <span className="text-green-300">ZlinPay</span>
 			</span>
 		</section>

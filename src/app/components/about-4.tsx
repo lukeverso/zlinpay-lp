@@ -3,7 +3,7 @@ import { Frame } from "lucide-react";
 export default function About4() {
 	return (
 		<section className="px-10 sm:px-36 flex flex-col items-center gap-4 py-10 sm:py-20">
-			<span className="font-semibold italic text-6xl">
+			<span className="font-semibold italic text-3xl">
 				Nossos <span className="text-green-300">clientes</span>
 			</span>
 			<span>

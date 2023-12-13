@@ -10,7 +10,7 @@ export default function About1() {
 				</p>
 			</div>
 			<div className="flex-1 flex justify-center">
-				<img src="/image3.png" alt="" />
+				<img src="/image3.svg" alt="" />
 			</div>
 		</section>
 	);
