@@ -1,6 +1,6 @@
 export default function About1() {
 	return (
-		<section className="px-10 sm:px-36 flex flex-col sm:flex-row items-center gap-5 sm:gap-36 py-10 sm:py-20">
+		<section className="px-10 sm:px-36 flex flex-col sm:flex-row items-center gap-5 sm:gap-36 py-10">
 			<div className="flex flex-col gap-5 flex-1">
 				<span className="text-6xl font-semibold italic leading-tight">
 					Sobre a <span className="text-green-300">ZlinPay</span>

@@ -2,7 +2,7 @@ import ButtonWithBg from "./ui/button-with-bg";
 
 export default function About3() {
 	return (
-		<section className="px-10 sm:px-36 flex flex-col sm:flex-row items-center gap-10 sm:gap-36 py-10 sm:py-20">
+		<section className="px-10 sm:px-36 flex flex-col sm:flex-row items-center gap-10 sm:gap-36 py-10">
 			<div className="flex-1 flex justify-center sm:hidden">
 				<img src="/image5.svg" alt="" />
 			</div>

@@ -1,15 +1,14 @@
 export default function About2() {
 	return (
-		<section className="px-10 sm:px-36 flex items-center gap-36 py-10 sm:py-20 bg-green-300">
+		<section className="px-10 sm:px-36 flex items-center gap-36 py-10 bg-green-300">
 			<div className="flex-1 justify-center hidden sm:flex">
 				<img src="/image4.svg" alt="" />
 			</div>
 			<div className="flex-1 flex flex-col gap-5 text-white">
-				<div className="relative w-fit">
-					<span className="relative font-light italic text-4xl z-10">
+				<div className="w-fit">
+					<span className="font-light italic text-4xl">
 						BUSCAMOS o extraordinário
 					</span>
-					<div className="absolute bg-green-500 h-4 w-[236px] sm:w-[240px] -bottom-1 left-0 sm:-right-[6px] z-auto"></div>
 				</div>
 				<p>
 					Acreditamos que a tecnologia é a resposta para boa parte das demandas e necessidades do nosso mundo atual. E é nisso que nos baseamos: tecnologia! Empreender em um país tão repleto de oportunidades como o Brasil também traz muitos desafios. E é através da tecnologia que a ZlinPay busca entregar soluções simples e ao mesmo tempo robustas para solucionar um desses desafios: receber pagamentos pela internet.

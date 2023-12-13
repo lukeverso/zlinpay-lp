@@ -2,7 +2,7 @@ import { BarChart3, FolderEdit, Receipt, Shield } from "lucide-react";
 
 export default function Start4() {
 	return (
-		<section className="flex flex-col px-10 sm:px-36 justify-between items-center gap-10 sm:gap-20 py-10 sm:py-20">
+		<section className="flex flex-col px-10 sm:px-36 justify-between items-center gap-10 sm:gap-20 py-10">
 			<div className="flex flex-col text-center gap-2">
 				<span className="text-5xl font-light italic">
 					Ganhe <span className="text-green-300 font-semibold not-italic">tempo</span> e <span className="text-green-300 font-semibold not-italic">dinheiro</span>

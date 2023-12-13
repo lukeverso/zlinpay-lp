@@ -2,7 +2,7 @@ import { Coins, DollarSign, Headphones, UsersRound } from "lucide-react"
 
 export default function Start2() {
 	return (
-		<section className="bg-green-300 flex flex-col sm:flex-row px-10 sm:px-36 justify-between py-10 sm:py-20 items-center gap-10 sm:gap-36">
+		<section className="bg-green-300 flex flex-col sm:flex-row px-10 sm:px-36 justify-between py-10 items-center gap-10 sm:gap-36">
 			<span className="text-4xl text-white italic font-semibold gap-36 flex-1 text-center sm:text-left">
 				Amplie suas vendas no online, seja um cliente ZlinPay
 			</span>

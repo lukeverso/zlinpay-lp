@@ -2,7 +2,7 @@ import ButtonWithBg from "./ui/button-with-bg";
 
 export default function Start3() {
 	return (
-		<section className="flex flex-col px-10 sm:px-36 justify-between py-10 sm:py-20 items-center gap-20">
+		<section className="flex flex-col px-10 sm:px-36 justify-between py-10 items-center gap-20">
 			<div className="flex items-center gap-36">
 				<div className="flex-1 flex flex-col gap-5">
 					<span className="text-5xl leading-tight font-light italic">
