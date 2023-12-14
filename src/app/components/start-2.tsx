@@ -4,9 +4,10 @@ export default function Start2() {
 	return (
 		<section className="bg-green-300 flex flex-col sm:flex-row px-10 sm:px-36 justify-between py-10 items-center gap-10 sm:gap-36">
 			<span className="text-4xl text-white italic font-semibold gap-36 flex-1 text-center sm:text-left">
-				Amplie suas vendas no online, seja um cliente ZlinPay
+				Amplie suas vendas no online,<br />
+				seja um cliente ZlinPay
 			</span>
-			<div className="flex flex-col sm:grid sm:grid-cols-2 gap-5 flex-1">
+			<div className="grid grid-cols-2 gap-5 flex-1">
 				<div className="flex items-center gap-5">
 					<UsersRound className="text-white" />
 					<div className="flex flex-col">

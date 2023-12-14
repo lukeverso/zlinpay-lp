@@ -5,16 +5,16 @@ export default function About2() {
 				<img src="/image4.svg" alt="" />
 			</div>
 			<div className="flex-1 flex flex-col gap-5 text-white">
-				<div className="w-fit">
+				<div className="text-center sm:text-left w-fit">
 					<span className="font-light italic text-4xl">
 						BUSCAMOS o extraordinário
 					</span>
 				</div>
-				<p>
+				<p className="text-center sm:text-justify">
 					Acreditamos que a tecnologia é a resposta para boa parte das demandas e necessidades do nosso mundo atual. E é nisso que nos baseamos: tecnologia! Empreender em um país tão repleto de oportunidades como o Brasil também traz muitos desafios. E é através da tecnologia que a ZlinPay busca entregar soluções simples e ao mesmo tempo robustas para solucionar um desses desafios: receber pagamentos pela internet.
 					Nosso foco é fazer com que você possa focar na gestão e direção do seu negócio, enquanto oferecemos todas as ferramentas de análise, intermediação e gestão de pagamentos para o seu negócio.
 				</p>
-				<div className="flex flex-col">
+				<div className="text-center sm:text-left flex flex-col">
 					<span className="italic">
 						“A TECNOLOGIA MOVE O MUNDO”
 					</span>

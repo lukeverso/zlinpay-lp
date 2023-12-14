@@ -8,44 +8,56 @@ export default function Start4() {
 					Ganhe <span className="text-green-300 font-semibold not-italic">tempo</span> e <span className="text-green-300 font-semibold not-italic">dinheiro</span>
 				</span>
 				<span>
-					Potencialize o volume de transações e crie novas linhas de receita na sua empresa com soluções bancárias completas e fáceis de gerir e implantar. Sem burocracias, sem barreiras tecnológicas e livre de obstáculos jurídicos.
+					Potencialize o volume de transações e crie novas linhas de receita na sua empresa com soluções bancárias completas<br />
+					e fáceis de gerir e implantar. Sem burocracias, sem barreiras tecnológicas e livre de obstáculos jurídicos.
 				</span>
 			</div>
-			<div className="flex flex-col items-center sm:flex-row gap-5 sm:gap-0 justify-between w-full">
-				<div className="max-w-[240px] flex flex-col gap-3 items-center text-center">
+			<div className="flex flex-col sm:flex-row gap-5 sm:gap-0 justify-between w-full sm:px-52">
+				<div className="sm:max-w-[240px] flex flex-col gap-3 items-center text-center">
 					<Shield className="text-green-300" size={36} />
 					<span className="font-bold text-green-300 text-3xl">
-						Tecnologia robusta
+						Tecnologia <br className="hidden sm:flex" />robusta
 					</span>
 					<p className="text-sm">
-						APIs e SDKs com aderência instantânea às normas exigidas, opere com segurança, seguindo regulamentações e padrões da indústria.
+						APIs e SDKs com aderência <br className="hidden sm:flex" />
+						instantânea às normas exigidas, <br className="hidden sm:flex" />
+						opere com segurança, seguindo <br className="hidden sm:flex" />
+						regulamentações e padrões <br className="hidden sm:flex" />
+						da indústria.
 					</p>
 				</div>
-				<div className="max-w-[240px] flex flex-col gap-3 items-center text-center">
+				<div className="sm:max-w-[240px] flex flex-col gap-3 items-center text-center">
 					<FolderEdit className="text-green-300" size={36} />
 					<span className="font-bold text-green-300 text-3xl">
-						Gestão simplificada
+						Gestão <br className="hidden sm:flex" />simplificada
 					</span>
 					<p className="text-sm">
-						Receba pagamentos e gerencie tudo em um só lugar
+						Receba pagamentos <br className="hidden sm:flex" />
+						e gerencie tudo em <br className="hidden sm:flex" />
+						um só lugar
 					</p>
 				</div>
-				<div className="max-w-[240px] flex flex-col gap-3 items-center text-center">
+				<div className="sm:max-w-[240px] flex flex-col gap-3 items-center text-center">
 					<Receipt className="text-green-300" size={36} />
 					<span className="font-bold text-green-300 text-3xl">
-						Aumente suas vendas
+						Aumente <br className="hidden sm:flex" />suas vendas
 					</span>
 					<p className="text-sm">
-						Ofereça mais formas de pagamentos para os seus clientes
+						Ofereça mais formas <br className="hidden sm:flex" />
+						de pagamentos para os <br className="hidden sm:flex" />
+						seus clientes
 					</p>
 				</div>
-				<div className="max-w-[240px] flex flex-col gap-3 items-center text-center">
+				<div className="sm:max-w-[240px] flex flex-col gap-3 items-center text-center">
 					<BarChart3 className="text-green-300" size={36} />
 					<span className="font-bold text-green-300 text-3xl">
 						Gráficos
 					</span>
 					<p className="text-sm">
-						Aproveite os benefícios de monitoramento e analise seus pagamentos eficientemente com nosso painel.
+						Aproveite os benefícios <br className="hidden sm:flex" />
+						de monitoramento e analise <br className="hidden sm:flex" />
+						seus pagamentos eficientemente <br className="hidden sm:flex" />
+						com nosso painel.
 					</p>
 				</div>
 			</div>
